@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x917910cC7ad575CE31Af427FeD1bb1A83a54e860",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x917910cc7ad575ce31af427fed1bb1a83a54e860",
+  "NETWORK": {
+    "NAME": "Rinkeby ETH",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MimicShhansAi",
+  "SYMBOL": "MSAI",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2500000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 77000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mimicshhansai",
+  "SHOW_BACKGROUND": true
+}
