@@ -9,6 +9,7 @@
   "NFT_NAME": "MimicShhansAi",
   "SYMBOL": "MSAI",
   "MAX_SUPPLY": 5000,
+  "WEI_COST": 0000000000000000000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 77000,
   "MARKETPLACE": "Opeansea",
