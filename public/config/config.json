@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x917910cC7ad575CE31Af427FeD1bb1A83a54e860",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x917910cc7ad575ce31af427fed1bb1a83a54e860",
+  "CONTRACT_ADDRESS": "0x0eF3Ea57036CF4dC1103d98285f535fBEd4Ae52A",
+  "SCAN_LINK": "https://etherscan.io/address/0x0ef3ea57036cf4dc1103d98285f535fbed4ae52a#code",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
@@ -9,10 +9,10 @@
   "NFT_NAME": "Glowing Cat",
   "SYMBOL": "GCAT",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 50000000000000000,
+  "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 77000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mimicshhansai",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/glowing-cat-club",
   "SHOW_BACKGROUND": true
 }
